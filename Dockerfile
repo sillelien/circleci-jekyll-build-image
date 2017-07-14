@@ -1,2 +1,2 @@
 FROM jekyll/builder
-RUN apk install tar
+RUN apk add tar
